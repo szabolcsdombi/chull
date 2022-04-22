@@ -5,7 +5,7 @@ with open('README.md') as readme:
 
 setup(
     name='chull',
-    version='0.2.0',
+    version='1.0.0',
     py_modules=['chull'],
     install_requires=['scipy', 'numpy'],
     author='Szabolcs Dombi',
