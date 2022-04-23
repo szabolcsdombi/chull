@@ -5,7 +5,7 @@ with open('README.md') as readme:
 
 setup(
     name='chull',
-    version='1.0.0',
+    version='1.0.1',
     py_modules=['chull'],
     license='MIT',
     python_requires='>=3.6',
